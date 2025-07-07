@@ -1,0 +1,4 @@
+keys palettePalettePages
+	creature_paint_palette_pages~!CE_TextureGroup_Base_Cells1
+	creature_paint_palette_pages~!CE_TextureGroup_Base_Cells2
+end

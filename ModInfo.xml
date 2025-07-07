@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<mod description="A mod by Watermelon_Sir which adds all the Cell Stage paints to the creature editor." displayName="Cell Paints in Creature Editor" installerSystemVersion="1.0.1.0" hasCustomInstaller="true" dllsBuild="2.5.20" unique="WatermelonSirCellPaintsInCreatureEditor">
+<componentGroup unique="groupOne" displayName="Icon Types">
+<component unique="wmCellPaintsCellIcons" displayName="Cell Paints with Cell Icons" description="Cell paints will use copies of the icons that they use in the cell stage." imagePlacement="None" defaultChecked="true" game="GalacticAdventures">WMCellPaintsInCreatureEditorA.package</component>
+<component unique="wmCellPaintsCreatureIcons" displayName="Cell Paints with Creature Icons" description="Cell paints will use custom paintbuddy icons similar to other creature stage paints." imagePlacement="None" game="GalacticAdventures">WMCellPaintsInCreatureEditorB.package</component>
+</componentGroup>
+</mod>
